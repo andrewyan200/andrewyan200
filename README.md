@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andrewyan200
+- 👋 Hi, I’m Andrew!
 - 👀 I’m interested in software development, building and shipping products, and web3
 - 🌱 I’m currently learning large-scale software development in C++
 - 💞️ I’m looking to collaborate on web3 projects
