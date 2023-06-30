@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Andrew!
 - 👀 I’m interested in software development, building and shipping products, and web3
-- 🌱 I’m currently learning large-scale software development in C++
-- 💞️ I’m looking to collaborate on web3 projects
+- 🌱 I’m currently learning how Google Drive works from both the technical and business aspects
 - 📫 You can reach me at andrew.yan@columbia.edu
 
 <!---
